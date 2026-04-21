@@ -1,4 +1,4 @@
-# alfido-tech-data-science
+# alfido_tech_data_science[Task-1]
 Zomato Dataset Analysis – Summary
 
 This project analyzes the Zomato dataset to understand restaurant trends and customer preferences. The data was cleaned by removing duplicates, handling missing values, and converting ratings and cost into proper numerical formats.
